@@ -33,7 +33,7 @@ $("document").ready(function(){
     },diff);
 
 
-  var countDownDate = new Date("Jan 26, 2019 11:50:00").getTime();
+  var countDownDate = new Date("Jan 26, 2019 19:30:00").getTime();
 
                 // Update the count down every 1 second
                 var x = setInterval(function() {
