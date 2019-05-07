@@ -1,2 +1,2 @@
 # dhishnya
-It uses django framework modified ver of samasya repo
+It uses django framework modified version of samasya repo
